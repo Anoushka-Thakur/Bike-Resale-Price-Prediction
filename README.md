@@ -93,6 +93,10 @@ streamlit run app.py
 
 👉 https://bike-resale-price-prediction-kyu4rdee5cwkynqd8c5ucv.streamlit.app/
 
+## Project Dashboard
+
+![Bike Resale Price Prediction](screenshot/Bike_resale_dashboard.png)
+
 
 ### Author
 
